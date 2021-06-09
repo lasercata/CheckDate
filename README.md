@@ -1,5 +1,5 @@
 # CheckDate
-List files modified after a given date.
+Command line program (python3 argparse) that list files modified after a given date.
 
 ## Installing
 Download the script `CheckDate.py` ;
